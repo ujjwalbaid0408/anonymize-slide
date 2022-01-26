@@ -27,7 +27,7 @@ Delete the label from all NDPI files in the current directory:
 Requirements
 ------------
 
- * Python 3.6+
+ * Python 3.6 +
 
 License
 -------
